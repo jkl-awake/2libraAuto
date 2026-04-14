@@ -1,7 +1,7 @@
 #!/bin/sh
 set -eu
 
-PROJECT_DIR="/root/code/2libra"
+PROJECT_DIR="/root/code/2libraAuto"
 IMAGE_NAME="2libra-checkin"
 CONTAINER_NAME="2libra-checkin-job"
 COOKIE_FILE="$PROJECT_DIR/2libra_cookie.txt"
