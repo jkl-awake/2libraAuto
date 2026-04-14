@@ -1,0 +1,9 @@
+__pycache__/
+.ruff_cache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.git/
+.gitignore
+2libra_cookie.txt

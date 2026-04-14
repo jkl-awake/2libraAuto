@@ -1,0 +1,1 @@
+0 10 * * * /bin/sh /root/code/2libra/run.sh >> /var/log/2libra-checkin.log 2>&1
